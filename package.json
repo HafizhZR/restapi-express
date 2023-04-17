@@ -10,6 +10,7 @@
   "author": "Hafizh Zaghlul Rizal",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^16.0.3",
     "express": "^4.18.2",
     "mysql2": "^3.2.1",
     "nodemon": "^2.0.22"
